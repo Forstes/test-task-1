@@ -1,0 +1,62 @@
+[
+    {
+      "type": "simple",
+      "id": 1,
+      "sku": "s1",
+      "title": "Product 1",
+      "regular_price": {
+        "currency": "USD",
+        "value": 27.12
+      },
+      "image": "/images/1.png",
+      "brand": 1
+    },
+    {
+        "type": "simple",
+        "id": 2,
+        "sku": "s1",
+        "title": "Product 2",
+        "regular_price": {
+          "currency": "USD",
+          "value": 527.12
+        },
+        "image": "/images/1.png",
+        "brand": 2
+      },
+      {
+        "type": "simple",
+        "id": 3,
+        "sku": "s1",
+        "title": "Product 3",
+        "regular_price": {
+          "currency": "USD",
+          "value": 29.99
+        },
+        "image": "/images/1.png",
+        "brand": 3
+      },
+      {
+        "type": "simple",
+        "id": 4,
+        "sku": "s1",
+        "title": "Product 4",
+        "regular_price": {
+          "currency": "USD",
+          "value": 68.12
+        },
+        "image": "/images/1.png",
+        "brand": 4
+      },
+      {
+        "type": "simple",
+        "id": 5,
+        "sku": "s1",
+        "title": "Product 5",
+        "regular_price": {
+          "currency": "USD",
+          "value": 115.15
+        },
+        "image": "/images/1.png",
+        "brand": 4
+      }
+  ]
